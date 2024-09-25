@@ -70,5 +70,5 @@ npm start
 
 
 ## Contribution
-Tsedenia Bogale ©2023 All Rights Reserved.
+Tsedi ©2023 All Rights Reserved.
 - - -
